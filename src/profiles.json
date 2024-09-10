@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Alicia",
+    "username": "alicia",
+    "imageUrl": "/alicia-avatar.webp",
+    "description": "Straight",
+    "agentId": "ag:ef6b6a3f:20240903:vgf1:3eee7b56"
+  },
+  {
+    "name": "Diana",
+    "username": "diana",
+    "imageUrl": "/diana-avatar.webp",
+    "description": "Bisexual",
+    "agentId": "ag:ef6b6a3f:20240904:vgf-nemo:eee2d3d3"
+  },
+  {
+    "name": "John",
+    "username": "john",
+    "imageUrl": "/john-avatar.webp",
+    "description": "Bisexual",
+    "agentId": "ag:ef6b6a3f:20240904:untitled-agent:8142e120"
+  }
+]
